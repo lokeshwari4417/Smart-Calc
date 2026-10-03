@@ -1,0 +1,6 @@
+# SmartCalc - Python Calculator Dependencies
+#
+# No external dependencies required.
+# Tkinter and all math/AST libraries are included with standard Python installations.
+#
+# Minimum Python Version: Python 3.8+
